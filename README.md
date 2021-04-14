@@ -1,2 +1,2 @@
 # lottery.gov.cn
-## python爬虫联系，切勿用于非法活动。
+## python爬虫练习，切勿用于非法活动。
